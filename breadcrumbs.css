@@ -1,0 +1,8 @@
+/* 
+div в котором обернуты ссылки имеет класс breadcrumbs
+*/
+.breadcrumbs{
+    font-size: 12px;
+    margin-top:5px;
+    font-style: italic;
+}
